@@ -1,0 +1,52 @@
+[
+  {
+    "ID": "123456",
+    "Cover_Image": "img/c1.jpg",
+    "Author": "Aryamitra Das",
+    "Author_Image": "img/a1.jpg",
+    "Posted_Date": "Mar 14 (4 Days ago)",
+    "Reading_Time": 8,
+    "Title": "Unveiling the Profound Mysteries of the Cosmic Universe Through Exploration and Discovery",
+    "Hashtags": ["#CosmicExploration", "#SpaceMysteries", "#GalacticWonders"]
+  },
+  {
+    "ID": "789012",
+    "Cover_Image": "img/c2.jpg",
+    "Author": "Somanath Mukherjee",
+    "Author_Image": "img/a2.jpg",
+    "Posted_Date": "Mar 15 (3 Days ago)",
+    "Reading_Time": 10,
+    "Title": "Embarking on an Epic Journey into the Unknown: Discovering New Realms and Unfolding Adventures",
+    "Hashtags": ["#AdventureUnfolds", "#Discovery", "#Exploration"]
+  },
+  {
+    "ID": "345678",
+    "Cover_Image": "img/c3.jpg",
+    "Author": "Mitali Basu",
+    "Author_Image": "img/a3.jpg",
+    "Posted_Date": "Mar 16 (2 Days ago)",
+    "Reading_Time": 6,
+    "Title": "Listening to the Eternal Echoes: Exploring Timeless Tales and Immortal Journeys",
+    "Hashtags": ["#TimelessTales", "#EternalJourney"]
+  },
+  {
+    "ID": "901234",
+    "Cover_Image": "img/c4.jpg",
+    "Author": "Suman Chatterjee",
+    "Author_Image": "img/a4.jpg",
+    "Posted_Date": "Mar 17 (1 Days ago)",
+    "Reading_Time": 12,
+    "Title": "Delving into the Intriguing Enigma of Existence: A Philosophical Inquiry into Life and Reality",
+    "Hashtags": ["#ExistentialInquiry", "#PhilosophicalWonders"]
+  },
+  {
+    "ID": "567890",
+    "Cover_Image": "img/c5.jpg",
+    "Author": "Rupali Dev",
+    "Author_Image": "img/a5.jpg",
+    "Posted_Date": "Mar 18 (Today)",
+    "Reading_Time": 7,
+    "Title": "Echoes of the Past: Revelations in the Gentle Breeze",
+    "Hashtags": ["#MysticalWisdom", "#SpiritualJourney"]
+  }
+]
